@@ -1,6 +1,3 @@
-
-package ashkn1;
-
 import java.util.Scanner;
 public class ashkn5 {
     
