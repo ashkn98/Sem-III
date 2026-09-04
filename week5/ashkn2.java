@@ -21,7 +21,8 @@ public class ashkn2 {
         System.out.println("The sum of all the elements of the array are: ");
         for (i=0; i<n; i++) {
             sum = sum + arr[i];
-            System.out.print(sum);
         }
+
+        System.out.print(sum);
     }
 }
