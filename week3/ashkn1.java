@@ -10,6 +10,3 @@ public class ashkn1 {
          
     }
 }
-
-
-sout    
