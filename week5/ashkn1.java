@@ -4,7 +4,7 @@ public class ashkn1 {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the size of the array: ");
         int n = input.nextInt();
-        int[] arr = new int[n];
+        int arr[] = new int[n];
         int i;
         
         System.out.println("Enter elements of the array: ");
